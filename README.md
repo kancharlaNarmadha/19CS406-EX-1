@@ -7,6 +7,7 @@ To implement socket programming date and time display from client to server usin
 
 
 ALGORITHM :
+
 Server:
 
 1.Create a server socket and bind it to port.
